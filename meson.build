@@ -12,7 +12,7 @@ project (
    version: '4.4',
    license: 'MIT',
    default_options: [
-      'buildtype=release',
+      'buildtype=debug',
       'b_ndebug=if-release',
       'cpp_std=c++17',
       'warning_level=3',
